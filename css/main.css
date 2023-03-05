@@ -1321,7 +1321,7 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .skills-second-style .skill-container.skill-4 .skill-percentage {
-  width: 90%;
+  width: 70%;
 }
 
 .skills-second-style .skill-container.skill-5 .skill-percentage {
@@ -1407,7 +1407,7 @@ textarea.form-control, textarea.form-control:focus {
   list-style: none;
 }
 
-.knowledges li {;
+.knowledges li {
   display: inline-block;
   background-color: #a66fff;
   border-radius: 3px;
